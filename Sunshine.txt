@@ -1,0 +1,6 @@
+hello everyone..
+
+
+#All files
+*.txt
+
